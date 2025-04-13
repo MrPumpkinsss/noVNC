@@ -16,17 +16,19 @@
         // 去除协议部分（http:// 或 https://）
         const domain = rawUrl.replace(/^https?:\/\//, '');
 
-        // 构造目标 URL
-        const targetUrl = `vnc.html?host=${domain}&port=443&encrypt=true&path=websockify&autoconnect=true`;
+        // 构造目标 URL，并添加时间戳以避免缓存
+        const timestamp = new Date().getTime();
+        const targetUrl = `vnc.html?host=${domain}&port=443&encrypt=true&path=websockify&autoconnect=true&timestamp=${timestamp}`;
 
-        // 跳转
-        window.location.href = targetUrl;
+        // 使用 replace 方法跳转，确保不会缓存
+        window.location.replace(targetUrl);
       } catch (error) {
         console.error('跳转失败:', error);
         document.body.innerText = '跳转失败，请检查 domain.txt 内容格式是否正确。';
       }
     }
 
+    // 页面加载后执行跳转
     window.onload = redirectToVNC;
   </script>
 </head>
