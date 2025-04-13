@@ -1,0 +1,284 @@
+Apr 13 20:50:55 PumpkinPi systemd[1]: Started ngrok.service - Ngrok Tunnel.
+Apr 13 20:50:55 PumpkinPi systemd[1]: [0;1;39m[0;1;31m[0;1;39mngrok.service: Main process exited, code=exited, status=217/USER[0m
+Apr 13 20:50:55 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 13 20:50:56 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 1.
+Apr 13 20:50:56 PumpkinPi systemd[1]: Stopped ngrok.service - Ngrok Tunnel.
+Apr 13 20:50:56 PumpkinPi systemd[1]: Started ngrok.service - Ngrok Tunnel.
+Apr 13 20:50:56 PumpkinPi systemd[1]: [0;1;39m[0;1;31m[0;1;39mngrok.service: Main process exited, code=exited, status=217/USER[0m
+Apr 13 20:50:56 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 13 20:50:56 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 2.
+Apr 13 20:50:56 PumpkinPi systemd[1]: Stopped ngrok.service - Ngrok Tunnel.
+Apr 13 20:50:56 PumpkinPi systemd[1]: Started ngrok.service - Ngrok Tunnel.
+Apr 13 20:50:56 PumpkinPi systemd[1]: [0;1;39m[0;1;31m[0;1;39mngrok.service: Main process exited, code=exited, status=217/USER[0m
+Apr 13 20:50:56 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 13 20:50:56 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 3.
+Apr 13 20:50:56 PumpkinPi systemd[1]: Stopped ngrok.service - Ngrok Tunnel.
+Apr 13 20:50:56 PumpkinPi systemd[1]: Started ngrok.service - Ngrok Tunnel.
+Apr 13 20:50:56 PumpkinPi systemd[1]: [0;1;39m[0;1;31m[0;1;39mngrok.service: Main process exited, code=exited, status=217/USER[0m
+Apr 13 20:50:56 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 13 20:50:56 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 4.
+Apr 13 20:50:56 PumpkinPi systemd[1]: Stopped ngrok.service - Ngrok Tunnel.
+Apr 13 20:50:56 PumpkinPi systemd[1]: Started ngrok.service - Ngrok Tunnel.
+Apr 13 20:50:56 PumpkinPi systemd[1]: [0;1;39m[0;1;31m[0;1;39mngrok.service: Main process exited, code=exited, status=217/USER[0m
+Apr 13 20:50:56 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 13 20:50:57 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 5.
+Apr 13 20:50:57 PumpkinPi systemd[1]: Stopped ngrok.service - Ngrok Tunnel.
+Apr 13 20:50:57 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Start request repeated too quickly.[0m
+Apr 13 20:50:57 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 13 20:50:57 PumpkinPi systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start ngrok.service - Ngrok Tunnel.[0m
+Apr 13 20:53:05 PumpkinPi systemd[1]: Started ngrok.service - Ngrok Tunnel.
+Apr 13 23:19:07 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Main process exited, code=killed, status=9/KILL[0m
+Apr 13 23:19:07 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'signal'.[0m
+Apr 13 23:19:07 PumpkinPi systemd[1]: ngrok.service: Consumed 10.509s CPU time.
+Apr 13 23:19:07 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 1.
+Apr 13 23:19:07 PumpkinPi systemd[1]: Stopped ngrok.service - Ngrok Tunnel.
+Apr 13 23:19:07 PumpkinPi systemd[1]: ngrok.service: Consumed 10.509s CPU time.
+Apr 13 23:19:07 PumpkinPi systemd[1]: Started ngrok.service - Ngrok Tunnel.
+Apr 13 23:20:10 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Main process exited, code=killed, status=9/KILL[0m
+Apr 13 23:20:10 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'signal'.[0m
+Apr 13 23:20:11 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 2.
+Apr 13 23:20:11 PumpkinPi systemd[1]: Stopped ngrok.service - Ngrok Tunnel.
+Apr 13 23:20:11 PumpkinPi systemd[1]: Started ngrok.service - Ngrok Tunnel.
+Apr 13 23:20:23 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Main process exited, code=killed, status=9/KILL[0m
+Apr 13 23:20:23 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'signal'.[0m
+Apr 13 23:20:24 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 3.
+Apr 13 23:20:24 PumpkinPi systemd[1]: Stopped ngrok.service - Ngrok Tunnel.
+Apr 13 23:20:24 PumpkinPi systemd[1]: Started ngrok.service - Ngrok Tunnel.
+Apr 13 23:20:25 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Main process exited, code=killed, status=9/KILL[0m
+Apr 13 23:20:25 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'signal'.[0m
+Apr 13 23:20:26 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 4.
+Apr 13 23:20:26 PumpkinPi systemd[1]: Stopped ngrok.service - Ngrok Tunnel.
+Apr 13 23:20:26 PumpkinPi systemd[1]: Started ngrok.service - Ngrok Tunnel.
+Apr 13 23:31:26 PumpkinPi systemd[1]: ngrok.service: Deactivated successfully.
+Apr 14 00:17:14 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 00:17:14 PumpkinPi ngrok[9176]: ERROR:  Error reading configuration file '/home/mrpumpkinsss/ngrok.yml': `version` property is required.
+Apr 14 00:17:14 PumpkinPi ngrok[9176]: ERROR:
+Apr 14 00:17:14 PumpkinPi ngrok[9176]: ERROR:  If you're upgrading from an older version of ngrok, you can run:
+Apr 14 00:17:14 PumpkinPi ngrok[9176]: ERROR:
+Apr 14 00:17:14 PumpkinPi ngrok[9176]: ERROR:      ngrok config upgrade
+Apr 14 00:17:14 PumpkinPi ngrok[9176]: ERROR:
+Apr 14 00:17:14 PumpkinPi ngrok[9176]: ERROR:  to upgrade to the new format and add the version number.
+Apr 14 00:17:14 PumpkinPi systemd[1]: [0;1;39m[0;1;31m[0;1;39mngrok.service: Main process exited, code=exited, status=1/FAILURE[0m
+Apr 14 00:17:14 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 14 00:17:15 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 1.
+Apr 14 00:17:15 PumpkinPi systemd[1]: Stopped ngrok.service - ngrok Tunnel.
+Apr 14 00:17:15 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 00:17:15 PumpkinPi ngrok[9182]: ERROR:  Error reading configuration file '/home/mrpumpkinsss/ngrok.yml': `version` property is required.
+Apr 14 00:17:15 PumpkinPi ngrok[9182]: ERROR:
+Apr 14 00:17:15 PumpkinPi ngrok[9182]: ERROR:  If you're upgrading from an older version of ngrok, you can run:
+Apr 14 00:17:15 PumpkinPi ngrok[9182]: ERROR:
+Apr 14 00:17:15 PumpkinPi ngrok[9182]: ERROR:      ngrok config upgrade
+Apr 14 00:17:15 PumpkinPi ngrok[9182]: ERROR:
+Apr 14 00:17:15 PumpkinPi ngrok[9182]: ERROR:  to upgrade to the new format and add the version number.
+Apr 14 00:17:15 PumpkinPi systemd[1]: [0;1;39m[0;1;31m[0;1;39mngrok.service: Main process exited, code=exited, status=1/FAILURE[0m
+Apr 14 00:17:15 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 14 00:17:15 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 2.
+Apr 14 00:17:15 PumpkinPi systemd[1]: Stopped ngrok.service - ngrok Tunnel.
+Apr 14 00:17:15 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 00:17:15 PumpkinPi ngrok[9188]: ERROR:  Error reading configuration file '/home/mrpumpkinsss/ngrok.yml': `version` property is required.
+Apr 14 00:17:15 PumpkinPi ngrok[9188]: ERROR:
+Apr 14 00:17:15 PumpkinPi ngrok[9188]: ERROR:  If you're upgrading from an older version of ngrok, you can run:
+Apr 14 00:17:15 PumpkinPi ngrok[9188]: ERROR:
+Apr 14 00:17:15 PumpkinPi ngrok[9188]: ERROR:      ngrok config upgrade
+Apr 14 00:17:15 PumpkinPi ngrok[9188]: ERROR:
+Apr 14 00:17:15 PumpkinPi ngrok[9188]: ERROR:  to upgrade to the new format and add the version number.
+Apr 14 00:17:15 PumpkinPi systemd[1]: [0;1;39m[0;1;31m[0;1;39mngrok.service: Main process exited, code=exited, status=1/FAILURE[0m
+Apr 14 00:17:15 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 14 00:17:15 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 3.
+Apr 14 00:17:15 PumpkinPi systemd[1]: Stopped ngrok.service - ngrok Tunnel.
+Apr 14 00:17:15 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 00:17:15 PumpkinPi ngrok[9195]: ERROR:  Error reading configuration file '/home/mrpumpkinsss/ngrok.yml': `version` property is required.
+Apr 14 00:17:15 PumpkinPi ngrok[9195]: ERROR:
+Apr 14 00:17:15 PumpkinPi ngrok[9195]: ERROR:  If you're upgrading from an older version of ngrok, you can run:
+Apr 14 00:17:15 PumpkinPi ngrok[9195]: ERROR:
+Apr 14 00:17:15 PumpkinPi ngrok[9195]: ERROR:      ngrok config upgrade
+Apr 14 00:17:15 PumpkinPi ngrok[9195]: ERROR:
+Apr 14 00:17:15 PumpkinPi ngrok[9195]: ERROR:  to upgrade to the new format and add the version number.
+Apr 14 00:17:15 PumpkinPi systemd[1]: [0;1;39m[0;1;31m[0;1;39mngrok.service: Main process exited, code=exited, status=1/FAILURE[0m
+Apr 14 00:17:15 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 14 00:17:15 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 4.
+Apr 14 00:17:15 PumpkinPi systemd[1]: Stopped ngrok.service - ngrok Tunnel.
+Apr 14 00:17:15 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 00:17:15 PumpkinPi ngrok[9202]: ERROR:  Error reading configuration file '/home/mrpumpkinsss/ngrok.yml': `version` property is required.
+Apr 14 00:17:15 PumpkinPi ngrok[9202]: ERROR:
+Apr 14 00:17:15 PumpkinPi ngrok[9202]: ERROR:  If you're upgrading from an older version of ngrok, you can run:
+Apr 14 00:17:15 PumpkinPi ngrok[9202]: ERROR:
+Apr 14 00:17:15 PumpkinPi ngrok[9202]: ERROR:      ngrok config upgrade
+Apr 14 00:17:15 PumpkinPi ngrok[9202]: ERROR:
+Apr 14 00:17:15 PumpkinPi ngrok[9202]: ERROR:  to upgrade to the new format and add the version number.
+Apr 14 00:17:15 PumpkinPi systemd[1]: [0;1;39m[0;1;31m[0;1;39mngrok.service: Main process exited, code=exited, status=1/FAILURE[0m
+Apr 14 00:17:15 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 14 00:17:16 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 5.
+Apr 14 00:17:16 PumpkinPi systemd[1]: Stopped ngrok.service - ngrok Tunnel.
+Apr 14 00:17:16 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Start request repeated too quickly.[0m
+Apr 14 00:17:16 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 14 00:17:16 PumpkinPi systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start ngrok.service - ngrok Tunnel.[0m
+Apr 14 00:18:56 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 00:18:56 PumpkinPi ngrok[9267]: ERROR:  Error reading configuration file '/home/mrpumpkinsss/ngrok.yml': YAML parsing error: yaml: line 2: mapping values are not allowed in this context
+Apr 14 00:18:56 PumpkinPi systemd[1]: [0;1;39m[0;1;31m[0;1;39mngrok.service: Main process exited, code=exited, status=1/FAILURE[0m
+Apr 14 00:18:56 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 14 00:18:56 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 1.
+Apr 14 00:18:56 PumpkinPi systemd[1]: Stopped ngrok.service - ngrok Tunnel.
+Apr 14 00:18:56 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 00:18:56 PumpkinPi ngrok[9278]: ERROR:  Error reading configuration file '/home/mrpumpkinsss/ngrok.yml': YAML parsing error: yaml: line 2: mapping values are not allowed in this context
+Apr 14 00:18:56 PumpkinPi systemd[1]: [0;1;39m[0;1;31m[0;1;39mngrok.service: Main process exited, code=exited, status=1/FAILURE[0m
+Apr 14 00:18:56 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 14 00:18:56 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 2.
+Apr 14 00:18:56 PumpkinPi systemd[1]: Stopped ngrok.service - ngrok Tunnel.
+Apr 14 00:18:56 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 00:18:56 PumpkinPi ngrok[9285]: ERROR:  Error reading configuration file '/home/mrpumpkinsss/ngrok.yml': YAML parsing error: yaml: line 2: mapping values are not allowed in this context
+Apr 14 00:18:56 PumpkinPi systemd[1]: [0;1;39m[0;1;31m[0;1;39mngrok.service: Main process exited, code=exited, status=1/FAILURE[0m
+Apr 14 00:18:56 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 14 00:18:56 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 3.
+Apr 14 00:18:56 PumpkinPi systemd[1]: Stopped ngrok.service - ngrok Tunnel.
+Apr 14 00:18:56 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 00:18:56 PumpkinPi ngrok[9292]: ERROR:  Error reading configuration file '/home/mrpumpkinsss/ngrok.yml': YAML parsing error: yaml: line 2: mapping values are not allowed in this context
+Apr 14 00:18:56 PumpkinPi systemd[1]: [0;1;39m[0;1;31m[0;1;39mngrok.service: Main process exited, code=exited, status=1/FAILURE[0m
+Apr 14 00:18:56 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 14 00:18:57 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 4.
+Apr 14 00:18:57 PumpkinPi systemd[1]: Stopped ngrok.service - ngrok Tunnel.
+Apr 14 00:18:57 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 00:18:57 PumpkinPi ngrok[9299]: ERROR:  Error reading configuration file '/home/mrpumpkinsss/ngrok.yml': YAML parsing error: yaml: line 2: mapping values are not allowed in this context
+Apr 14 00:18:57 PumpkinPi systemd[1]: [0;1;39m[0;1;31m[0;1;39mngrok.service: Main process exited, code=exited, status=1/FAILURE[0m
+Apr 14 00:18:57 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 14 00:18:57 PumpkinPi systemd[1]: ngrok.service: Scheduled restart job, restart counter is at 5.
+Apr 14 00:18:57 PumpkinPi systemd[1]: Stopped ngrok.service - ngrok Tunnel.
+Apr 14 00:18:57 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Start request repeated too quickly.[0m
+Apr 14 00:18:57 PumpkinPi systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mngrok.service: Failed with result 'exit-code'.[0m
+Apr 14 00:18:57 PumpkinPi systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start ngrok.service - ngrok Tunnel.[0m
+Apr 14 00:23:16 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 00:54:30 PumpkinPi systemd[1]: Stopping ngrok.service - ngrok Tunnel...
+Apr 14 00:54:30 PumpkinPi systemd[1]: ngrok.service: Deactivated successfully.
+Apr 14 00:54:30 PumpkinPi systemd[1]: Stopped ngrok.service - ngrok Tunnel.
+Apr 14 00:54:30 PumpkinPi systemd[1]: ngrok.service: Consumed 2.130s CPU time.
+[0;1;39m-- Boot d8f4f2563790439c91dc88b123b9d357 --[0m
+Apr 14 00:54:47 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 00:57:54 PumpkinPi systemd[1]: Stopping ngrok.service - ngrok Tunnel...
+Apr 14 00:57:54 PumpkinPi systemd[1]: ngrok.service: Deactivated successfully.
+Apr 14 00:57:54 PumpkinPi systemd[1]: Stopped ngrok.service - ngrok Tunnel.
+Apr 14 00:57:54 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 00:57:54 PumpkinPi ngrok[2624]: t=2025-04-14T00:57:54+0800 lvl=info msg="open config file" path=/home/mrpumpkinsss/ngrok.yml err=nil
+Apr 14 00:57:54 PumpkinPi ngrok[2624]: t=2025-04-14T00:57:54+0800 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+Apr 14 00:57:54 PumpkinPi ngrok[2624]: t=2025-04-14T00:57:54+0800 lvl=info msg="client session established" obj=tunnels.session
+Apr 14 00:57:54 PumpkinPi ngrok[2624]: t=2025-04-14T00:57:54+0800 lvl=info msg="tunnel session started" obj=tunnels.session
+Apr 14 00:57:54 PumpkinPi ngrok[2624]: t=2025-04-14T00:57:54+0800 lvl=info msg="started tunnel" obj=tunnels name=vncweb addr=http://localhost:6080 url=https://e909-158-132-13-224.ngrok-free.app
+Apr 14 01:25:10 PumpkinPi ngrok[2624]: t=2025-04-14T01:25:10+0800 lvl=info msg="join connections" obj=join id=c848d0da473e l=127.0.0.1:6080 r=54.234.127.225:58292
+Apr 14 01:27:48 PumpkinPi ngrok[2624]: t=2025-04-14T01:27:48+0800 lvl=info msg="join connections" obj=join id=312cdded9aef l=127.0.0.1:6080 r=54.89.174.185:50422
+Apr 14 01:36:05 PumpkinPi ngrok[2624]: t=2025-04-14T01:36:05+0800 lvl=info msg="join connections" obj=join id=7579d773cfff l=127.0.0.1:6080 r=217.182.175.162:49516
+Apr 14 02:03:30 PumpkinPi ngrok[2624]: t=2025-04-14T02:03:30+0800 lvl=info msg="join connections" obj=join id=f680feb1e6ab l=127.0.0.1:6080 r=13.218.96.54:42048
+Apr 14 02:04:09 PumpkinPi ngrok[2624]: t=2025-04-14T02:04:09+0800 lvl=info msg="join connections" obj=join id=30023fd803e3 l=127.0.0.1:6080 r=3.93.31.185:47696
+Apr 14 02:05:18 PumpkinPi ngrok[2624]: t=2025-04-14T02:05:18+0800 lvl=info msg="join connections" obj=join id=c9919176730b l=127.0.0.1:6080 r=34.227.242.225:37112
+Apr 14 02:27:57 PumpkinPi ngrok[2624]: t=2025-04-14T02:27:57+0800 lvl=info msg="join connections" obj=join id=b6539f3f8ead l=127.0.0.1:6080 r=158.132.13.125:45828
+Apr 14 02:27:57 PumpkinPi ngrok[2624]: t=2025-04-14T02:27:57+0800 lvl=info msg="join connections" obj=join id=c44041f80acd l=127.0.0.1:6080 r=158.132.13.125:45828
+Apr 14 02:28:26 PumpkinPi ngrok[2624]: t=2025-04-14T02:28:26+0800 lvl=info msg="join connections" obj=join id=60199760573d l=127.0.0.1:6080 r=158.132.13.125:21497
+Apr 14 02:31:23 PumpkinPi ngrok[2624]: t=2025-04-14T02:31:23+0800 lvl=info msg="join connections" obj=join id=39cd2fa4cdde l=127.0.0.1:6080 r=158.132.13.125:21497
+Apr 14 02:34:44 PumpkinPi ngrok[2624]: t=2025-04-14T02:34:44+0800 lvl=info msg="join connections" obj=join id=3ea3955e0fc9 l=127.0.0.1:6080 r=158.132.13.125:21497
+Apr 14 02:34:48 PumpkinPi ngrok[2624]: t=2025-04-14T02:34:48+0800 lvl=info msg="join connections" obj=join id=c371d4709bed l=127.0.0.1:6080 r=158.132.13.125:21497
+Apr 14 02:38:45 PumpkinPi ngrok[2624]: t=2025-04-14T02:38:45+0800 lvl=info msg="join connections" obj=join id=c38edd610dd0 l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:38:50 PumpkinPi ngrok[2624]: t=2025-04-14T02:38:50+0800 lvl=info msg="join connections" obj=join id=be1466712983 l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:39:40 PumpkinPi ngrok[2624]: t=2025-04-14T02:39:40+0800 lvl=info msg="join connections" obj=join id=51365a0d77bf l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:39:44 PumpkinPi ngrok[2624]: t=2025-04-14T02:39:44+0800 lvl=info msg="join connections" obj=join id=36283817d83e l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:40:50 PumpkinPi ngrok[2624]: t=2025-04-14T02:40:50+0800 lvl=info msg="join connections" obj=join id=b2c0376366e6 l=127.0.0.1:6080 r=158.132.13.125:59981
+Apr 14 02:40:50 PumpkinPi ngrok[2624]: t=2025-04-14T02:40:50+0800 lvl=info msg="join connections" obj=join id=2f4bfaa69b27 l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:40:50 PumpkinPi ngrok[2624]: t=2025-04-14T02:40:50+0800 lvl=info msg="join connections" obj=join id=da5c25e7ebaa l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:40:50 PumpkinPi ngrok[2624]: t=2025-04-14T02:40:50+0800 lvl=info msg="join connections" obj=join id=ab89451cc34b l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:40:50 PumpkinPi ngrok[2624]: t=2025-04-14T02:40:50+0800 lvl=info msg="join connections" obj=join id=73d8eebf3d0f l=127.0.0.1:6080 r=158.132.13.125:59981
+Apr 14 02:40:50 PumpkinPi ngrok[2624]: t=2025-04-14T02:40:50+0800 lvl=info msg="join connections" obj=join id=9369afe16ba9 l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:40:51 PumpkinPi ngrok[2624]: t=2025-04-14T02:40:51+0800 lvl=info msg="join connections" obj=join id=8cdb73c11a1e l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:40:51 PumpkinPi ngrok[2624]: t=2025-04-14T02:40:51+0800 lvl=info msg="join connections" obj=join id=718fbc3afc99 l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:40:53 PumpkinPi ngrok[2624]: t=2025-04-14T02:40:53+0800 lvl=info msg="join connections" obj=join id=37be96c96d03 l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:41:06 PumpkinPi ngrok[2624]: t=2025-04-14T02:41:06+0800 lvl=info msg="join connections" obj=join id=d0cb777da8e2 l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:41:19 PumpkinPi ngrok[2624]: t=2025-04-14T02:41:19+0800 lvl=info msg="join connections" obj=join id=22b58ea58411 l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:42:05 PumpkinPi ngrok[2624]: t=2025-04-14T02:42:05+0800 lvl=info msg="join connections" obj=join id=c05c273c943e l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:43:49 PumpkinPi ngrok[2624]: t=2025-04-14T02:43:49+0800 lvl=info msg="join connections" obj=join id=79e6f69786cd l=127.0.0.1:6080 r=158.132.13.125:43461
+Apr 14 02:44:06 PumpkinPi ngrok[2624]: t=2025-04-14T02:44:06+0800 lvl=info msg="join connections" obj=join id=bd803a19e3d9 l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:47:07 PumpkinPi ngrok[2624]: t=2025-04-14T02:47:07+0800 lvl=info msg="join connections" obj=join id=db4f1261fa53 l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:47:16 PumpkinPi ngrok[2624]: t=2025-04-14T02:47:16+0800 lvl=info msg="join connections" obj=join id=649e69f7ab9b l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:47:41 PumpkinPi ngrok[2624]: t=2025-04-14T02:47:41+0800 lvl=info msg="join connections" obj=join id=caba2f320f7c l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:48:08 PumpkinPi ngrok[2624]: t=2025-04-14T02:48:08+0800 lvl=info msg="join connections" obj=join id=99dd1a30252b l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:49:11 PumpkinPi ngrok[2624]: t=2025-04-14T02:49:11+0800 lvl=info msg="join connections" obj=join id=d46c4c70bf83 l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:49:12 PumpkinPi ngrok[2624]: t=2025-04-14T02:49:12+0800 lvl=info msg="join connections" obj=join id=77fe23a832ee l=127.0.0.1:6080 r=158.132.13.125:60545
+Apr 14 02:49:12 PumpkinPi ngrok[2624]: t=2025-04-14T02:49:12+0800 lvl=info msg="join connections" obj=join id=db605a466658 l=127.0.0.1:6080 r=158.132.13.125:60545
+Apr 14 02:50:13 PumpkinPi ngrok[2624]: t=2025-04-14T02:50:13+0800 lvl=info msg="join connections" obj=join id=cd7dcdad2754 l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:50:21 PumpkinPi ngrok[2624]: t=2025-04-14T02:50:21+0800 lvl=info msg="join connections" obj=join id=829c11ee09df l=127.0.0.1:6080 r=158.132.13.125:55820
+Apr 14 02:52:28 PumpkinPi ngrok[2624]: t=2025-04-14T02:52:28+0800 lvl=info msg="join connections" obj=join id=c39fea70aa21 l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:52:34 PumpkinPi ngrok[2624]: t=2025-04-14T02:52:34+0800 lvl=info msg="join connections" obj=join id=3de0d4e17e4e l=127.0.0.1:6080 r=158.132.13.125:39878
+Apr 14 02:53:08 PumpkinPi ngrok[2624]: t=2025-04-14T02:53:08+0800 lvl=info msg="join connections" obj=join id=79874016f8f7 l=127.0.0.1:6080 r=158.132.13.125:24925
+Apr 14 02:53:55 PumpkinPi ngrok[2624]: t=2025-04-14T02:53:55+0800 lvl=info msg="join connections" obj=join id=079cef9d406a l=127.0.0.1:6080 r=18.208.131.48:37200
+[0;1;39m-- Boot 80e5ad657923473c999d9393144223c6 --[0m
+Apr 14 02:54:39 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 02:54:40 PumpkinPi ngrok[756]: t=2025-04-14T02:54:40+0800 lvl=info msg="open config file" path=/home/mrpumpkinsss/ngrok.yml err=nil
+Apr 14 02:54:42 PumpkinPi ngrok[756]: t=2025-04-14T02:54:42+0800 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+Apr 14 02:54:42 PumpkinPi ngrok[756]: t=2025-04-14T02:54:42+0800 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ap.ngrok-agent.com:443\": dial tcp: lookup connect.ap.ngrok-agent.com on 158.132.14.1:53: dial udp 158.132.14.1:53: connect: network is unreachable"
+Apr 14 02:54:42 PumpkinPi ngrok[756]: t=2025-04-14T02:54:42+0800 lvl=warn msg="failed to check for update" obj=updater err="Post \"https://update.equinox.io/check\": dial tcp: lookup update.equinox.io on 158.132.14.1:53: dial udp 158.132.14.1:53: connect: network is unreachable"
+Apr 14 02:54:42 PumpkinPi ngrok[756]: t=2025-04-14T02:54:42+0800 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ap.ngrok-agent.com:443\": dial tcp: lookup connect.ap.ngrok-agent.com on 158.132.14.1:53: dial udp 158.132.14.1:53: connect: network is unreachable"
+Apr 14 02:54:44 PumpkinPi ngrok[756]: t=2025-04-14T02:54:44+0800 lvl=info msg="client session established" obj=tunnels.session
+Apr 14 02:54:44 PumpkinPi ngrok[756]: t=2025-04-14T02:54:44+0800 lvl=info msg="tunnel session started" obj=tunnels.session
+Apr 14 02:54:44 PumpkinPi ngrok[756]: t=2025-04-14T02:54:44+0800 lvl=info msg="started tunnel" obj=tunnels name=vncweb addr=http://localhost:6080 url=https://9441-158-132-13-224.ngrok-free.app
+Apr 14 03:00:36 PumpkinPi ngrok[756]: t=2025-04-14T03:00:36+0800 lvl=info msg="join connections" obj=join id=592003b83c09 l=127.0.0.1:6080 r=158.132.13.125:54349
+Apr 14 03:10:02 PumpkinPi ngrok[756]: t=2025-04-14T03:10:02+0800 lvl=info msg="join connections" obj=join id=23f4155b3477 l=127.0.0.1:6080 r=158.132.13.125:58310
+Apr 14 03:13:18 PumpkinPi ngrok[756]: t=2025-04-14T03:13:18+0800 lvl=info msg="join connections" obj=join id=e9dedc083bef l=127.0.0.1:6080 r=217.182.175.162:41516
+Apr 14 03:30:16 PumpkinPi ngrok[756]: t=2025-04-14T03:30:16+0800 lvl=info msg="join connections" obj=join id=b16444064fb5 l=127.0.0.1:6080 r=52.247.239.25:9667
+[0;1;39m-- Boot 9d97a1b3cd624f60ac8d9199b4bc813c --[0m
+Apr 14 04:22:27 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 04:22:28 PumpkinPi ngrok[763]: t=2025-04-14T04:22:28+0800 lvl=info msg="open config file" path=/home/mrpumpkinsss/ngrok.yml err=nil
+Apr 14 04:22:29 PumpkinPi ngrok[763]: t=2025-04-14T04:22:29+0800 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+Apr 14 04:22:30 PumpkinPi ngrok[763]: t=2025-04-14T04:22:30+0800 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ap.ngrok-agent.com:443\": dial tcp: lookup connect.ap.ngrok-agent.com on 158.132.14.1:53: dial udp 158.132.14.1:53: connect: network is unreachable"
+Apr 14 04:22:30 PumpkinPi ngrok[763]: t=2025-04-14T04:22:30+0800 lvl=warn msg="failed to check for update" obj=updater err="Post \"https://update.equinox.io/check\": dial tcp: lookup update.equinox.io on 158.132.14.1:53: dial udp 158.132.14.1:53: connect: network is unreachable"
+Apr 14 04:22:30 PumpkinPi ngrok[763]: t=2025-04-14T04:22:30+0800 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ap.ngrok-agent.com:443\": dial tcp: lookup connect.ap.ngrok-agent.com on 158.132.14.1:53: dial udp 158.132.14.1:53: connect: network is unreachable"
+Apr 14 04:22:31 PumpkinPi ngrok[763]: t=2025-04-14T04:22:31+0800 lvl=info msg="client session established" obj=tunnels.session
+Apr 14 04:22:31 PumpkinPi ngrok[763]: t=2025-04-14T04:22:31+0800 lvl=info msg="tunnel session started" obj=tunnels.session
+Apr 14 04:22:31 PumpkinPi ngrok[763]: t=2025-04-14T04:22:31+0800 lvl=info msg="started tunnel" obj=tunnels name=vncweb addr=http://localhost:6080 url=https://bcda-158-132-13-224.ngrok-free.app
+Apr 14 05:45:59 PumpkinPi ngrok[763]: t=2025-04-14T05:45:59+0800 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+Apr 14 05:45:59 PumpkinPi systemd[1]: Stopping ngrok.service - ngrok Tunnel...
+Apr 14 05:45:59 PumpkinPi ngrok[763]: t=2025-04-14T05:45:59+0800 lvl=info msg="session closing" obj=tunnels.session err=nil
+Apr 14 05:45:59 PumpkinPi ngrok[763]: t=2025-04-14T05:45:59+0800 lvl=info msg="accept failed" obj=tunnels.session obj=csess id=9b7611f34aba err="reconnecting session closed"
+Apr 14 05:45:59 PumpkinPi ngrok[763]: t=2025-04-14T05:45:59+0800 lvl=info msg="no more state changes" obj=tunnels.session
+Apr 14 05:45:59 PumpkinPi ngrok[763]: t=2025-04-14T05:45:59+0800 lvl=info msg="failed to accept connection: Listener closed" obj=tunnels.session clientid=643fda71e8807be04b8392172a2fe1f7
+Apr 14 05:45:59 PumpkinPi systemd[1]: ngrok.service: Deactivated successfully.
+Apr 14 05:45:59 PumpkinPi systemd[1]: Stopped ngrok.service - ngrok Tunnel.
+Apr 14 05:45:59 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 05:45:59 PumpkinPi ngrok[2788]: t=2025-04-14T05:45:59+0800 lvl=info msg="open config file" path=/home/mrpumpkinsss/ngrok.yml err=nil
+Apr 14 05:45:59 PumpkinPi ngrok[2788]: t=2025-04-14T05:45:59+0800 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+Apr 14 05:46:01 PumpkinPi ngrok[2788]: t=2025-04-14T05:46:01+0800 lvl=info msg="client session established" obj=tunnels.session
+Apr 14 05:46:01 PumpkinPi ngrok[2788]: t=2025-04-14T05:46:01+0800 lvl=info msg="tunnel session started" obj=tunnels.session
+Apr 14 05:46:01 PumpkinPi ngrok[2788]: t=2025-04-14T05:46:01+0800 lvl=info msg="started tunnel" obj=tunnels name=vncweb addr=http://localhost:6080 url=https://431f-158-132-13-224.ngrok-free.app
+Apr 14 05:47:01 PumpkinPi systemd[1]: Stopping ngrok.service - ngrok Tunnel...
+Apr 14 05:47:01 PumpkinPi ngrok[2788]: t=2025-04-14T05:47:01+0800 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+Apr 14 05:47:01 PumpkinPi ngrok[2788]: t=2025-04-14T05:47:01+0800 lvl=info msg="session closing" obj=tunnels.session err=nil
+Apr 14 05:47:01 PumpkinPi ngrok[2788]: t=2025-04-14T05:47:01+0800 lvl=info msg="accept failed" obj=tunnels.session obj=csess id=2f652485a9a7 err="reconnecting session closed"
+Apr 14 05:47:01 PumpkinPi systemd[1]: ngrok.service: Deactivated successfully.
+Apr 14 05:47:01 PumpkinPi systemd[1]: Stopped ngrok.service - ngrok Tunnel.
+Apr 14 05:47:01 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 05:47:01 PumpkinPi ngrok[2828]: t=2025-04-14T05:47:01+0800 lvl=info msg="open config file" path=/home/mrpumpkinsss/ngrok.yml err=nil
+Apr 14 05:47:01 PumpkinPi ngrok[2828]: t=2025-04-14T05:47:01+0800 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+Apr 14 05:47:01 PumpkinPi ngrok[2828]: t=2025-04-14T05:47:01+0800 lvl=info msg="client session established" obj=tunnels.session
+Apr 14 05:47:01 PumpkinPi ngrok[2828]: t=2025-04-14T05:47:01+0800 lvl=info msg="tunnel session started" obj=tunnels.session
+Apr 14 05:47:01 PumpkinPi ngrok[2828]: t=2025-04-14T05:47:01+0800 lvl=info msg="started tunnel" obj=tunnels name=vncweb addr=http://localhost:6080 url=https://bfe3-158-132-13-224.ngrok-free.app
+Apr 14 05:51:22 PumpkinPi ngrok[2828]: t=2025-04-14T05:51:22+0800 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+Apr 14 05:51:22 PumpkinPi ngrok[2828]: t=2025-04-14T05:51:22+0800 lvl=info msg="session closing" obj=tunnels.session err=nil
+Apr 14 05:51:22 PumpkinPi systemd[1]: Stopping ngrok.service - ngrok Tunnel...
+Apr 14 05:51:22 PumpkinPi ngrok[2828]: t=2025-04-14T05:51:22+0800 lvl=info msg="accept failed" obj=tunnels.session obj=csess id=dd60f5301a89 err="reconnecting session closed"
+Apr 14 05:51:22 PumpkinPi ngrok[2828]: t=2025-04-14T05:51:22+0800 lvl=info msg="no more state changes" obj=tunnels.session
+Apr 14 05:51:22 PumpkinPi ngrok[2828]: t=2025-04-14T05:51:22+0800 lvl=info msg="failed to accept connection: Listener closed" obj=tunnels.session clientid=4f9577866b8fb89f704c6076d782cf81
+Apr 14 05:51:22 PumpkinPi ngrok[2828]: t=2025-04-14T05:51:22+0800 lvl=warn msg="Stopping forwarder" name=vncweb acceptErr="failed to accept connection: Listener closed"
+Apr 14 05:51:22 PumpkinPi ngrok[2828]: t=2025-04-14T05:51:22+0800 lvl=warn msg="Error restarting forwarder" name=vncweb err="failed to start tunnel: session closed"
+Apr 14 05:51:22 PumpkinPi systemd[1]: ngrok.service: Deactivated successfully.
+Apr 14 05:51:22 PumpkinPi systemd[1]: Stopped ngrok.service - ngrok Tunnel.
+Apr 14 05:51:47 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 05:51:47 PumpkinPi ngrok[3102]: t=2025-04-14T05:51:47+0800 lvl=info msg="open config file" path=/home/mrpumpkinsss/ngrok.yml err=nil
+Apr 14 05:51:47 PumpkinPi ngrok[3102]: t=2025-04-14T05:51:47+0800 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+Apr 14 05:51:48 PumpkinPi ngrok[3102]: t=2025-04-14T05:51:48+0800 lvl=info msg="client session established" obj=tunnels.session
+Apr 14 05:51:48 PumpkinPi ngrok[3102]: t=2025-04-14T05:51:48+0800 lvl=info msg="tunnel session started" obj=tunnels.session
+Apr 14 05:51:48 PumpkinPi ngrok[3102]: t=2025-04-14T05:51:48+0800 lvl=info msg="started tunnel" obj=tunnels name=vncweb addr=http://localhost:6080 url=https://5a53-158-132-13-224.ngrok-free.app
+[0;1;39m-- Boot 943fafea7d3c4307a8a93c089f87da80 --[0m
+Apr 14 05:52:22 PumpkinPi systemd[1]: Started ngrok.service - ngrok Tunnel.
+Apr 14 05:52:23 PumpkinPi ngrok[758]: t=2025-04-14T05:52:23+0800 lvl=info msg="open config file" path=/home/mrpumpkinsss/ngrok.yml err=nil
+Apr 14 05:52:25 PumpkinPi ngrok[758]: t=2025-04-14T05:52:25+0800 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+Apr 14 05:52:25 PumpkinPi ngrok[758]: t=2025-04-14T05:52:25+0800 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ap.ngrok-agent.com:443\": dial tcp: lookup connect.ap.ngrok-agent.com on 158.132.14.1:53: dial udp 158.132.14.1:53: connect: network is unreachable"
+Apr 14 05:52:25 PumpkinPi ngrok[758]: t=2025-04-14T05:52:25+0800 lvl=warn msg="failed to check for update" obj=updater err="Post \"https://update.equinox.io/check\": dial tcp: lookup update.equinox.io on 158.132.14.1:53: dial udp 158.132.14.1:53: connect: network is unreachable"
+Apr 14 05:52:25 PumpkinPi ngrok[758]: t=2025-04-14T05:52:25+0800 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="failed to dial ngrok server with address \"connect.ap.ngrok-agent.com:443\": dial tcp: lookup connect.ap.ngrok-agent.com on 158.132.14.1:53: dial udp 158.132.14.1:53: connect: network is unreachable"
+Apr 14 05:52:26 PumpkinPi ngrok[758]: t=2025-04-14T05:52:26+0800 lvl=info msg="client session established" obj=tunnels.session
+Apr 14 05:52:26 PumpkinPi ngrok[758]: t=2025-04-14T05:52:26+0800 lvl=info msg="tunnel session started" obj=tunnels.session
+Apr 14 05:52:27 PumpkinPi ngrok[758]: t=2025-04-14T05:52:27+0800 lvl=info msg="started tunnel" obj=tunnels name=vncweb addr=http://localhost:6080 url=https://9ab0-158-132-13-224.ngrok-free.app
+Apr 14 06:01:01 PumpkinPi ngrok[758]: t=2025-04-14T06:01:01+0800 lvl=info msg="join connections" obj=join id=911a9d7c56ca l=127.0.0.1:6080 r=158.132.13.125:7200
