@@ -27,8 +27,90 @@
       }
     }
 
+<<<<<<< HEAD
     window.onload = redirectToVNC;
   </script>
+=======
+    <!-- Apple iOS Safari settings -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <!-- @2x -->
+    <link rel="apple-touch-icon" sizes="40x40" type="image/png" href="app/images/icons/novnc-ios-40.png">
+    <link rel="apple-touch-icon" sizes="58x58" type="image/png" href="app/images/icons/novnc-ios-58.png">
+    <link rel="apple-touch-icon" sizes="80x80" type="image/png" href="app/images/icons/novnc-ios-80.png">
+    <link rel="apple-touch-icon" sizes="120x120" type="image/png" href="app/images/icons/novnc-ios-120.png">
+    <link rel="apple-touch-icon" sizes="152x152" type="image/png" href="app/images/icons/novnc-ios-152.png">
+    <link rel="apple-touch-icon" sizes="167x167" type="image/png" href="app/images/icons/novnc-ios-167.png">
+    <!-- @3x -->
+    <link rel="apple-touch-icon" sizes="60x60" type="image/png" href="app/images/icons/novnc-ios-60.png">
+    <link rel="apple-touch-icon" sizes="87x87" type="image/png" href="app/images/icons/novnc-ios-87.png">
+    <link rel="apple-touch-icon" sizes="120x120" type="image/png" href="app/images/icons/novnc-ios-120.png">
+    <link rel="apple-touch-icon" sizes="180x180" type="image/png" href="app/images/icons/novnc-ios-180.png">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="app/styles/constants.css">
+    <link rel="stylesheet" href="app/styles/base.css">
+    <link rel="stylesheet" href="app/styles/input.css">
+
+    <!-- Images that will later appear via CSS -->
+    <link rel="preload" as="image" href="app/images/info.svg">
+    <link rel="preload" as="image" href="app/images/error.svg">
+    <link rel="preload" as="image" href="app/images/warning.svg">
+
+    <script type="module" crossorigin="anonymous" src="app/error-handler.js"></script>
+
+    <script type="module">
+    import UI from "./app/ui.js";
+    import * as Log from './core/util/logging.js';
+
+    let response;
+
+    let defaults = {};
+    let mandatory = {};
+
+    // Load defaults.json
+    try {
+        response = await fetch('./defaults.json');
+        if (!response.ok) {
+            throw Error("" + response.status + " " + response.statusText);
+        }
+        defaults = await response.json();
+    } catch (err) {
+        Log.Error("Couldn't fetch defaults.json: " + err);
+    }
+
+    // Load mandatory.json
+    try {
+        response = await fetch('./mandatory.json');
+        if (!response.ok) {
+            throw Error("" + response.status + " " + response.statusText);
+        }
+        mandatory = await response.json();
+    } catch (err) {
+        Log.Error("Couldn't fetch mandatory.json: " + err);
+    }
+
+    // Load domain.txt and set as host
+    try {
+        response = await fetch('./domain.txt');
+        if (!response.ok) {
+            throw Error("" + response.status + " " + response.statusText);
+        }
+        const domainText = await response.text();
+        const domain = domainText.trim();
+        if (domain) {
+            defaults['host'] = domain;
+        }
+    } catch (err) {
+        Log.Error("Couldn't fetch domain.txt: " + err);
+    }
+
+    // Start the UI
+    UI.start({ settings: { defaults: defaults, mandatory: mandatory } });
+</script>
+>>>>>>> a0360d99da602b17cfaba1f92a6299634e197569
 </head>
 <body>
   正在跳转到 VNC 页面，请稍候...
