@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <script>
+    async function redirectToVNC() {
+      try {
+        // 获取 domain.txt 内容
+        const response = await fetch('domain.txt');
+        if (!response.ok) throw new Error('无法加载 domain.txt');
+        
+        let rawUrl = (await response.text()).trim();
+        if (!rawUrl) throw new Error('domain.txt 为空');
+
+        // 去除协议部分（http:// 或 https://）
+        const domain = rawUrl.replace(/^https?:\/\//, '');
+
+        // 构造目标 URL
+        const targetUrl = `vnc.html?host=${domain}&port=443&encrypt=true&path=websockify&autoconnect=true`;
+
+        // 跳转
+        window.location.href = targetUrl;
+      } catch (error) {
+        console.error('跳转失败:', error);
+        document.body.innerText = '跳转失败，请检查 domain.txt 内容格式是否正确。';
+      }
+    }
+
+    window.onload = redirectToVNC;
+  </script>
+</head>
+<body>
+  正在跳转到 VNC 页面，请稍候...
+</body>
+</html>
